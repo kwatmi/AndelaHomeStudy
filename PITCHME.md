@@ -1,4 +1,4 @@
-# AndelaHomeStudy
+# Andela HomeStudy
 
 ####  Kwatmi Haruna <br>                                                                                                                                                    week one progress for [Andela](https://andela.com/apply/) fellowship Home Study Material.
 ---
