@@ -1,13 +1,11 @@
 # AndelaHomeStudy
 
-##### i started Weekly progress for [Andela](https://andela.com/apply/) fellowship Home Study Material and i has been awesome  :blush: plus i  :heart: it!
+##### i started Weekly(week) progress for [Andela](https://andela.com/apply/) fellowship Home Study Material and i has been awesome  :blush: plus i  :heart: it!
 
-**Module 1 - Introduction to Computer Science** [downloadable](https://www.dropbox.com/sh/aqfxflt9l0fe3zo/AADCyEz6S84-heNyigGO9qo0a/Module%201%20-%20Introduction%20to%20%20Computer%20Science?dl=0)                                                                                                                                            
-*Overview*:  
-
+**Module 1 - Introduction to Computer Science** [downloadable](https://www.dropbox.com/sh/aqfxflt9l0fe3zo/AADCyEz6S84-heNyigGO9qo0a/Module%201%20-%20Introduction%20to%20%20Computer%20Science?dl=0)                                                                                                                                          
 ---
 
-In this module, i was  introduced to basic computer science concepts.i covered all the areas required to get me to the point of understanding what a computer scientist does.Learning Objectives
+*Overview*:<br>In this module, i was  introduced to basic computer science concepts.i covered all the areas required to get me to the point of understanding what a computer scientist does.Learning Objectives
 By the end of this module, i was  able to understand:
 * What computer science is. 
 * What a computer scientist does.                                          
@@ -21,14 +19,17 @@ Computer programming is the act of writing a sequence of instructions to a compu
 * Identify basic elements in computer programming.
 * The Python programming language.
 * Variables, data types and control structures in Python.
-* Functions and modules in Python.                                                                                                     
+* Functions and modules in Python.                       
+---
+
 *Resources needed*
 * [Computer Programming Environment](https://wiki.python.org/moin/BeginnersGuide/Download)
 *  [Google Developers: Python Introduction](https://developers.google.com/edu/python/) 	
 * [Recap of Python essentials](http://opentechschool.github.io/python-data-intro/core/recap.html)  
 *skill*
  * [Codecademy Python Course](https://www.codecademy.com/learn/python) 
- 
+---
+
 **Module 3 - Object oriented programming**[downloadable](https://www.dropbox.com/sh/aqfxflt9l0fe3zo/AADX8mUxMbHo-MWA5V4ZdNO8a/Module%203%20-%20Object%20Oriented%20Programming?dl=0)                                                                                     
 *Overview*                                                                                                                                           
 Object oriented programming is a paradigm and a way of thinking that helps programmers effectively model real-life scenarios.The module covered general OOP concepts and OOP in Python.                                                                                                    
@@ -40,10 +41,13 @@ At end of this module, i was able to understand:
  * Object oriented programming 			
  * Everything I know about Python 			
  * Object Oriented Programming in Python 
+ ---
  
 ![pythonlogo](https://www.python.org/static/community_logos/python-logo-inkscape.svg)                                                                                   
 ## You Need To Know:                                                                                                                           
-# WOW :astonished:  :astonished: PYTHON                                                                                                         
+# WOW :astonished:  :astonished: PYTHON  
+---
+
 ##### Cython
  * system allows coders to mix Python and C-like code.                                                                                   
 ##### The Jython 
