@@ -49,7 +49,7 @@ Object oriented programming is a paradigm and a way of thinking that helps progr
  
 ![pythonlogo](https://www.python.org/static/community_logos/python-logo-inkscape.svg)                                                                                   
 ## You Need To Know:                                                                                                                           
-# :astonished:  :astonished: PYTHON is WOW  
+### PYTHON is WOW  
 ---
 
 ##### Cython
@@ -60,11 +60,13 @@ Object oriented programming is a paradigm and a way of thinking that helps progr
  * .NET-based implementation provide alternative ways to script components.    
  
  
+ ----
  ---
 
 ##### Data base
    * There are Python interfaces to all commonly used
 relational database systems—Sybase, Oracle, Informix, ODBC, MySQL, PostgreSQL SQLite, and more.*
+
 
 ---
 #### What is your favorite color?
