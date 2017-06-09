@@ -1,16 +1,19 @@
 # AndelaHomeStudy
+
 ##### i started Weekly progress for [Andela](https://andela.com/apply/) fellowship Home Study Material and i has been awesome  :blush: plus i  :heart: it!
 
 **Module 1 - Introduction to Computer Science** [downloadable](https://www.dropbox.com/sh/aqfxflt9l0fe3zo/AADCyEz6S84-heNyigGO9qo0a/Module%201%20-%20Introduction%20to%20%20Computer%20Science?dl=0)                                                                                                                                            
-*Overview*:                                                                                                                                             
-In this module, i was  introduced to basic computer science concepts.i covered all the areas required to get me to the point of understanding what a computer scientist does.
-<br>
+*Overview*:  
+
+---
+
+In this module, i was  introduced to basic computer science concepts.i covered all the areas required to get me to the point of understanding what a computer scientist does.Learning Objectives
 By the end of this module, i was  able to understand:
 * What computer science is. 
 * What a computer scientist does.                                          
 * Basic computer science vocabulary. 
 * The core concepts in computer science.
-
+---
 **Module 2 - Introduction to Programming**  [downloadable](https://www.dropbox.com/sh/aqfxflt9l0fe3zo/AABM2w_pcBo8goe0LLkS2zeua/Module%202%20-%20Introduction%20to%20Programming?dl=0)                                                                                                                        
 *Overview*:                                                                                                                                        
 Computer programming is the act of writing a sequence of instructions to a computer to perform a specific task. This module  covered the basics of programming and provided an overview of computer programming.                                                                  By the end of this module, you should be able to understand                                                                                                        
