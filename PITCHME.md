@@ -59,14 +59,6 @@ Object oriented programming is a paradigm and a way of thinking that helps progr
 ##### IronPython
  * .NET-based implementation provide alternative ways to script components.    
  
- 
- ----
- ---
-
-##### Data base
-   * There are Python interfaces to all commonly used
-relational database systems—Sybase, Oracle, Informix, ODBC, MySQL, PostgreSQL SQLite, and more.*
-
 
 ---
 #### What is your favorite color?
