@@ -83,7 +83,7 @@ languages like C and C++. On the other hand, it’s quick enough for most appli-
 cations, and typical Python code runs at close to C speed anyhow because it invokes
 linked-in C code in the interpreter. If speed is critical, compiled extensions are
 available for number-crunching parts of an application.
----
+--- 
 #### What can you do with Python?
  * You can use Python for nearly anything you can do with a computer, from website development and gaming to robotics and spacecraft control.
 
