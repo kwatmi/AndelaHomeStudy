@@ -25,6 +25,19 @@ Computer programming is the act of writing a sequence of instructions to a compu
 *skill*
  * [Codecademy Python Course](https://www.codecademy.com/learn/python) 
  
+**Module 3 - Object oriented programming**[downloadable](https://www.dropbox.com/sh/aqfxflt9l0fe3zo/AADX8mUxMbHo-MWA5V4ZdNO8a/Module%203%20-%20Object%20Oriented%20Programming?dl=0)                                                                                     
+*Overview*                                                                                                                                           
+Object oriented programming is a paradigm and a way of thinking that helps programmers effectively model real-life scenarios.The module covered general OOP concepts and OOP in Python.                                                                                                    
+At end of this module, i was able to understand:
+* Object oriented programming concepts, classes and objects.
+* Implement object oriented programming concepts in Python.
+
+Resources
+Object oriented programming 			
+Everything I know about Python 			
+Object Oriented Programming in Python 
+
+ 
 
 				
 
