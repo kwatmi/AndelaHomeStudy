@@ -15,7 +15,7 @@ By the end of this module, i was  able to understand:
 *Overview*:                                                                                                                                        
 Computer programming is the act of writing a sequence of instructions to a computer to perform a specific task. This module  covered the basics of programming and provided an overview of computer programming.  
 ---
-By the end of this module, you should be able to understand                                                                                                        
+By the end of this module, i was able to understand                                                                                                        
 * What programming is.
 * Identify basic elements in computer programming.
 * The Python programming language.
@@ -39,12 +39,12 @@ Object oriented programming is a paradigm and a way of thinking that helps progr
 At end of this module, i was able to understand:
 * Object oriented programming concepts, classes and objects.
 * Implement object oriented programming concepts in Python.
-
 *Resources*
  * Object oriented programming 			
  * Everything I know about Python 			
  * Object Oriented Programming in Python 
- ---
+
+---
  
 ![pythonlogo](https://www.python.org/static/community_logos/python-logo-inkscape.svg)                                                                                   
 ## You Need To Know:                                                                                                                           
