@@ -3,7 +3,8 @@
 
 **Module 1 - Introduction to Computer Science** [downloadable](https://www.dropbox.com/sh/aqfxflt9l0fe3zo/AADCyEz6S84-heNyigGO9qo0a/Module%201%20-%20Introduction%20to%20%20Computer%20Science?dl=0)                                                                                                                                            
 *Overview*:                                                                                                                                             
-In this module, i was  introduced to basic computer science concepts.i covered all the areas required to get me to the point of understanding what a computer scientist does.Learning Objectives
+In this module, i was  introduced to basic computer science concepts.i covered all the areas required to get me to the point of understanding what a computer scientist does.
+<br>
 By the end of this module, i was  able to understand:
 * What computer science is. 
 * What a computer scientist does.                                          
