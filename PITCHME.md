@@ -55,7 +55,8 @@ Object oriented programming is a paradigm and a way of thinking that helps progr
 ##### Cython
  * system allows coders to mix Python and C-like code.                                                                                   
 ##### The Jython 
- * Java-based implementation, and the                                                                                      
+ * Java-based implementation, and the   
+ ---
 ##### IronPython
  * .NET-based implementation provide alternative ways to script components.                                                                              
 ##### Data base
